@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 54,
-  "version_name": "0.4.14-beta",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.14-beta/Kalkulator-Android-v0.4.14-beta-wallpapers-fix-debug.apk",
-  "sha256": "ce92c0d3bf555e767d90115df99f932be99a98b31cf77eaac5663fbf4270be4f",
-  "notes": "QR kamera çökme düzeltmesi, beş manzara teması, QR sekmesi, Android kurulum ekranına geçiş. Beta: Kamera ve yükleme akışını cihazında test et.",
+  "version_code": 55,
+  "version_name": "0.4.15-beta",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.15-beta/Kalkulator-Android-v0.4.15-beta-qr5-torch-debug.apk",
+  "sha256": "9149ec346c150d3da3851d9c11f24cb6c05ae7f6136dbba00c084222af0204cf",
+  "notes": "QR fener düzeltmesi, QR onayı verilene kadar yaklaşık 5 dakikada bir sesli uyarı, tek parça tema manzaraları ve yinelenen QR bölümünün kaldırılması. Beta sürüm: QR ve süreyi cihazında test et.",
   "status": "READY"
 }
