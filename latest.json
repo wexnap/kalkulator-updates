@@ -1,0 +1,10 @@
+{
+  "project": "kalkulator",
+  "package": "com.ludovestia.kalkulator",
+  "version_code": 52,
+  "version_name": "0.4.12-beta",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.12-beta/Kalkulator-Android-v0.4.12-beta-protected-debug.apk",
+  "sha256": "b5c83bf0f038141a477829d8fad500b0fb150b64a80e6ce1d287da57f96b89de",
+  "notes": "R8 kod karıştırma ve HTTPS güncelleme kanalı hazırlığı.",
+  "status": "DRAFT_DO_NOT_PUBLISH"
+}
