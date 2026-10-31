@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 57,
-  "version_name": "0.4.17-beta",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.17-beta/Kalkulator-Android-v0.4.17-beta-9temas-logo-calendar-debug.apk",
-  "sha256": "2e36ba4f6769891ae7f19029ffaf9d51efb950706c36ccec15ade88d7c2d532f",
-  "notes": "Yeni Kalkülatör logosu, 9 özgün tema, daha gerçekçi takvim ve saat altındaki gereksiz etiketin kaldırılması. Beta: Telefonunda görünümü ve takvim girişlerini test et.",
+  "version_code": 58,
+  "version_name": "0.4.18-beta",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.18-beta/Kalkulator-Android-v0.4.18-beta-icon-bugfix-debug.apk",
+  "sha256": "764af66a18b53331e0adbabcacbb8b715163657519c940b7b173dd7cf3a496a6",
+  "notes": "Beyaz kenarlı uygulama simgesi yerine Android uyarlanabilir simge; açılış tema + Kalkülatör + by Ludovestia. Alarm/yönlendirme güvenlik düzeltmeleri, doğum günü yıllık tekrar varsayılanı. Beta: Ana ekran simgesini ve alarm/takvim davranışını test et.",
   "status": "READY"
 }
