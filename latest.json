@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 58,
-  "version_name": "0.4.18-beta",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.18-beta/Kalkulator-Android-v0.4.18-beta-icon-bugfix-debug.apk",
-  "sha256": "764af66a18b53331e0adbabcacbb8b715163657519c940b7b173dd7cf3a496a6",
-  "notes": "Beyaz kenarlı uygulama simgesi yerine Android uyarlanabilir simge; açılış tema + Kalkülatör + by Ludovestia. Alarm/yönlendirme güvenlik düzeltmeleri, doğum günü yıllık tekrar varsayılanı. Beta: Ana ekran simgesini ve alarm/takvim davranışını test et.",
+  "version_code": 59,
+  "version_name": "0.4.19-beta",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.19-beta/Kalkulator-Android-v0.4.19-beta-greeting-icon-splash-debug.apk",
+  "sha256": "810f62546d1316a3c7acac76512624e2fc1aa22f3f1fca3a03266f2bd69837b2",
+  "notes": "Gece yarısı doğru 'İyi geceler!' karşılaması, saatin/günün canlı güncellenmesi; simgede ek lacivert alanın kaldırılması; açılışta kısa alt başlık ve net ince Ludovestia imzası. Beta: telefonda simgeyi ve açılışı kontrol et.",
   "status": "READY"
 }
