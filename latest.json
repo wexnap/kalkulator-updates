@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 55,
-  "version_name": "0.4.15-beta",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.15-beta/Kalkulator-Android-v0.4.15-beta-qr5-torch-debug.apk",
-  "sha256": "9149ec346c150d3da3851d9c11f24cb6c05ae7f6136dbba00c084222af0204cf",
-  "notes": "QR fener düzeltmesi, QR onayı verilene kadar yaklaşık 5 dakikada bir sesli uyarı, tek parça tema manzaraları ve yinelenen QR bölümünün kaldırılması. Beta sürüm: QR ve süreyi cihazında test et.",
+  "version_code": 56,
+  "version_name": "0.4.16-beta",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.4.16-beta/Kalkulator-Android-v0.4.16-beta-splash-debug.apk",
+  "sha256": "75046c16654d6d28c95c0b093e25fec79f1232e830220c9fdd8c7d6f80fbbe2e",
+  "notes": "Sade açılış: üst-ortada Kalkülatör logosu, altta by Ludovestia. Açılış beklemesi 1,3 sn ile aynı; ek animasyon yok.",
   "status": "READY"
 }
