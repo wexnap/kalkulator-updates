@@ -1,0 +1,10 @@
+{
+  "project": "kalkulator",
+  "package": "com.ludovestia.kalkulator",
+  "version_code": 66,
+  "version_name": "0.5.5-beta.1",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.5-beta.1/Kalkulator-Android-v0.5.5-beta.1-update-channel-r8.apk",
+  "sha256": "94fd9fdcb5bb02f1535a3fb0dba9d31ef7b5835253782785f110646b88d0630a",
+  "notes": "Kalkülatör 0.5.5 Beta Test (isteğe bağlı):\n• Küçük kare tema seçimi ve ekran önizlemeleri.\n• Alarm tekrar seçenekleri ve şifreli yedekleme geliştirmeleri.\n• Google Drive hesabı bağlama ve manuel şifreli yedek gönderme; gerçek Drive hesabıyla henüz doğrulanmadı.\n• Genel / Beta Test güncelleme kanalı seçimi.\nUYARI: Deneysel sürümdür. Gerçek cihaz alarm ve veri kurtarma testleri tamamlanmadı. Yüklemeden önce verilerini uygulama dışında yedekle; mevcut uygulamayı silme. Otomatik Drive yedekleme KAPALIDIR. Beta sürümden eski genel sürüme otomatik dönüş yoktur.",
+  "status": "READY"
+}
