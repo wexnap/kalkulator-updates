@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 60,
-  "version_name": "0.5.0-beta",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.0-beta/Kalkulator-Android-v0.5.0-beta-features-debug.apk",
-  "sha256": "7525719649f3a1bb530068e9a274f93ba8d3817e84af14005facd03c802be7ed",
-  "notes": "Kalkülatör 0.5.0 Beta yenilikleri:\n• Alarmları kopyala, 3/4/5 görev seç ve QR tekrar süresini ayarla.\n• Alarm ve bildirim izinlerini tek ekranda gör.\n• Haftalık ajandayı kullan, etkinliklerini ara ve filtrele.\n• Tekrarlayan etkinliğin yalnızca bir gününü düzenle; takvimini dışa aktar.\n• Ana ekran widget'ında yaklaşan alarmı ve etkinliği gör.\n• Planlarını yedekle ve geri yükle (yedekler şifresizdir).\n• Tema önizlemesi, yazı boyutu ve plan istatistiklerini kullan.\n• Bundan sonraki yeni sürümleri bildirimle öğren; yapılan değişiklikleri uygulama içinde oku.",
+  "version_code": 62,
+  "version_name": "0.5.2-beta",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.2-beta/Kalkulator-Android-v0.5.2-beta-calendar-ux-review-debug.apk",
+  "sha256": "fa2d1a9aaf81efcdd4e75950a6c76f4510c2652092bc2f2f695774f41d485c66",
+  "notes": "Kalkülatör 0.5.2 Beta yenilikleri:\n• Takvim, Plan ekranında en üste taşındı.\n• Günlük plan ve son 7 günün pasif özetleri kaldırıldı.\n• Etkinlik ve plan ekleme tek Yeni Kayıt panelinde birleştirildi.\n• Etkinlik/plan kayıtlarına görünür silme düğmeleri eklendi.\n• Haftalık görünümde planlar açıkça PLAN olarak işaretlendi.\nNot: Kilit ekranında alarm açılması ve alarm susturma sorunları devam ediyor; bu sürüm henüz gerçek telefonda doğrulanmadı.",
   "status": "READY"
 }
