@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 67,
-  "version_name": "0.5.5-beta.2",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.5-beta.2/Kalkulator-Android-v0.5.5-beta.2-ui-fixes.apk",
-  "sha256": "417e51dfccca6286464aaf0036a74fca9d3711dc2d6a82aa7c623662c9c3418f",
-  "notes": "0.5.5 Beta.2 kullanılabilirlik düzeltmeleri: Ayarlarda kaydırma konumu korunur; alarm kartı tıklanınca ayrıntıları açılır, açık/kapalı anahtarı renkle belirginleşir; yedekleme menüsü etkileşimli karta dönüştü; tema çerçeveleri ve buton ayrımı iyileştirildi; Google OAuth hatası için kod ve kontrol önerileri gösterilir. UYARI: Deneysel beta sürümüdür. Gerçek telefonda alarm kilit ekranı ve geri yükleme testleri yapılmadı; Google Drive bağlantısı için gerçek hesap testi başarısız, bu sürüm tanı mesajı sağlar. Otomatik Drive yedeği kapalıdır. Uygulamayı silme; önce harici şifreli yedek al.",
+  "version_code": 68,
+  "version_name": "0.5.5-beta.3",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.5-beta.3/Kalkulator-Android-v0.5.5-beta.3-alarm-ui-oauth-debug.apk",
+  "sha256": "3ab092f7523a7e154273d0a24ad547b4c9be6b29eef1aacb5d1d6afa760ca5ed",
+  "notes": "0.5.5 Beta.3: Alarmın AKTİF/KAPALI durumu küçük rozetle gösterilir. Aç/kapa anahtarı daha büyük, dokunma efekti güçlü ve renkli. Alarm tekrar/tarih ve görev bilgileri ayrı çerçeveli etiketlere dönüştü. ALARMI SİL düğmesi yeniden büyütüldü. Google OAuth için Hata 8 açıklaması ve uygulamanın gerçek imza SHA-1 değerini gösteren tanılama ekranı eklendi. DİKKAT: Google Cloud Android istemcisindeki SHA-1 kurulum belgesindeki eski yanlış değerle oluşturulmuş olabilir; doğru SHA-1 uygulamadan kontrol edilmelidir. Gerçek telefonda alarm sesi, şifreli geri yükleme ve Google bağlantısı henüz doğrulanmadı. Otomatik Drive yedeği KAPALI. Uygulamayı kaldırma; yedeklerini ayrı sakla.",
   "status": "READY"
 }
