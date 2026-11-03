@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 63,
-  "version_name": "0.5.3-beta",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.3-beta/Kalkulator-Android-v0.5.3-beta-update-ux-review-debug.apk",
-  "sha256": "92865dd8109b9c83a72273b71183003ca807e10d7987d8888987af088dcf7c76",
-  "notes": "Kalkülatör 0.5.3 Beta yenilikleri:\n• Güncelleme bildirimlerinde Kalkülatör logosu kullanılır.\n• APK indirilirken ilerleme çubuğu, yüzde ve indirilen MB gösterilir.\n• Dosya boyutu bilinmiyorsa hareketli ilerleme göstergesi kullanılır.\n• Önceki takvim ve plan geliştirmeleri korunur.\nNot: Yeni simge ve ilerleme çubuğu ancak 0.5.3 kurulduktan sonraki güncellemelerde görünür.\nBilinen sorun: Bazı telefonlarda alarm kilit ekranında açılmayabilir veya susturulamayabilir.",
+  "version_code": 71,
+  "version_name": "0.5.5-beta.6",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.5-beta.6/Kalkulator-Android-v0.5.5-beta.6-update-debug.apk",
+  "sha256": "d2608e6176bd451b3c17a918cd15cd7bf349be3717c7ef3ad313ca210bb8c458",
+  "notes": "Kalkulator v0.5.5 Beta.6 genel guncellemesi: alarm tekrar/aktif-pasif duzenlemeleri; sifreli .klb yedek ve istege bagli Google Drive baglantisi; gizlilik ve lisans duzenlemeleri; ozgun tema duvar kagitlari, logo ve ikonlar. Otomatik Google Drive bulut yuklemesi kapalidir. UYARI: Redmi Note 10 Pro kilit ekrani alarmi, gercek Google OAuth ve yeni kurulumdan geri yukleme gercek cihazda henuz test edilmedi. Mevcut alarm ve kritik veriler icin ek onlem al. Uygulamayi kaldirmadan once uygulama disinda sifreli yedek sakla.",
   "status": "READY"
 }
