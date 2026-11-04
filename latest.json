@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 71,
-  "version_name": "0.5.5-beta.6",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.5-beta.6/Kalkulator-Android-v0.5.5-beta.6-update-debug.apk",
-  "sha256": "d2608e6176bd451b3c17a918cd15cd7bf349be3717c7ef3ad313ca210bb8c458",
-  "notes": "Kalkulator v0.5.5 Beta.6 genel guncellemesi: alarm tekrar/aktif-pasif duzenlemeleri; sifreli .klb yedek ve istege bagli Google Drive baglantisi; gizlilik ve lisans duzenlemeleri; ozgun tema duvar kagitlari, logo ve ikonlar. Otomatik Google Drive bulut yuklemesi kapalidir. UYARI: Redmi Note 10 Pro kilit ekrani alarmi, gercek Google OAuth ve yeni kurulumdan geri yukleme gercek cihazda henuz test edilmedi. Mevcut alarm ve kritik veriler icin ek onlem al. Uygulamayi kaldirmadan once uygulama disinda sifreli yedek sakla.",
+  "version_code": 72,
+  "version_name": "0.5.6-beta.1",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.1/Kalkulator-Android-v0.5.6-beta.1-update.apk",
+  "sha256": "c64ed7f5a7a7a4423a600ea8c4ff4c791f05210eeb5f74c684ac9214062f7118",
+  "notes": "Aydınlık ve Karanlık temalar bırakıldı; diğer 10 tema kaldırıldı. Ana Sayfa açılışı, takvim, Profil, alarm ve genel Android izin uyumluluğu iyileştirildi. Google Drive üzerinde isteğe bağlı şifreli yedekleme ve geri yükleme korunuyor; otomatik bulut yedekleme kapalı. Tek evrensel APK, dört Android işlemci mimarisiyle uyumlu. Kritik veriler için uygulamayı kaldırmadan önce ayrıca şifreli yedek al. Gerçek fiziksel telefonlarda tüm kilit ekranı izinleri garanti edilemez.",
   "status": "READY"
 }
