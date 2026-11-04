@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 73,
-  "version_name": "0.5.6-beta.2",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.2/Kalkulator-Android-v0.5.6-beta.2-update.apk",
-  "sha256": "6c509016791dd80320678412433a9a3b7c6f5f72356527e84a3c73d68046a72b",
-  "notes": "Profil/Ayarlar bölümündeki altı ayar kartı aynı sayfada açılır-kapanır hâle getirildi. Kullanıcının onayladığı köşesiz zil ve görev simgesi uygulama ikonuna ve açılış ekranına eklendi. Aydınlık/Karanlık temalar korundu. Önceki sürümde eksik Android ağ durumu izni nedeniyle çalışmayan arka plan güncelleme zamanlayıcısı düzeltildi; güncelleme bildirimi açılırken bildirim izni istenir, kullanıcı engelleyici izin/kanal durumunu görebilir. Güncelleme bildirimleri tercihe bağlıdır ve cihaz tarafından geciktirilebilir. Kullanıcı verileri için uygulamayı kaldırmadan güncelleyin. Dört mimariyi içeren tek evrensel APK'dır.",
+  "version_code": 74,
+  "version_name": "0.5.6-beta.3",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.3/Kalkulator-Android-v0.5.6-beta.3-update.apk",
+  "sha256": "c924c0268667c647abee08a70a364407ccd542ffc85b578bdddec901e82174f5",
+  "notes": "Kalkülatör 0.5.6-beta.3 (74): Açılış ve uygulama simgesine alarm odaklı yeni logo eklendi. Profil/Görünüm üzerinden Beyaz, Mavi ve Siyah temalar seçilebilir; eski tema tercihleri korunur. Alarm ekranı ve bildirim panelindeki SESİ SUSTUR kaldırıldı; görev tamamlanmadan otomatik 50 saniye/15 dakika susturma yok. QR/fotoğraf görevlerinin son adımı tamamlandığında alarm ekranı, servis ve bildirim kapatılır. Acil kapatma beş saniye basılı tutmayla çalışır; görev başarısı sayılmaz ve kontrol alarmı başlatmaz. +1, +3, +10 dakika kontrolleri yeni alarmlarda varsayılan olarak kapalıdır ve ayrı ayrı isteğe bağlı açılabilir. Alarm oluşturma ekranı dört açılır-kapanır karta dönüştürüldü. Tek evrensel APK dört mimariyi destekler. Uygulamayı kaldırmadan güncelleyin. Not: Gerçek cihazlarda kamera/üreticiye bağlı alarm davranışlarının bütün varyasyonları doğrulanmadı.",
   "status": "READY"
 }
