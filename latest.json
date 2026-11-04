@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 72,
-  "version_name": "0.5.6-beta.1",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.1/Kalkulator-Android-v0.5.6-beta.1-update.apk",
-  "sha256": "c64ed7f5a7a7a4423a600ea8c4ff4c791f05210eeb5f74c684ac9214062f7118",
-  "notes": "Aydınlık ve Karanlık temalar bırakıldı; diğer 10 tema kaldırıldı. Ana Sayfa açılışı, takvim, Profil, alarm ve genel Android izin uyumluluğu iyileştirildi. Google Drive üzerinde isteğe bağlı şifreli yedekleme ve geri yükleme korunuyor; otomatik bulut yedekleme kapalı. Tek evrensel APK, dört Android işlemci mimarisiyle uyumlu. Kritik veriler için uygulamayı kaldırmadan önce ayrıca şifreli yedek al. Gerçek fiziksel telefonlarda tüm kilit ekranı izinleri garanti edilemez.",
+  "version_code": 73,
+  "version_name": "0.5.6-beta.2",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.2/Kalkulator-Android-v0.5.6-beta.2-update.apk",
+  "sha256": "6c509016791dd80320678412433a9a3b7c6f5f72356527e84a3c73d68046a72b",
+  "notes": "Profil/Ayarlar bölümündeki altı ayar kartı aynı sayfada açılır-kapanır hâle getirildi. Kullanıcının onayladığı köşesiz zil ve görev simgesi uygulama ikonuna ve açılış ekranına eklendi. Aydınlık/Karanlık temalar korundu. Önceki sürümde eksik Android ağ durumu izni nedeniyle çalışmayan arka plan güncelleme zamanlayıcısı düzeltildi; güncelleme bildirimi açılırken bildirim izni istenir, kullanıcı engelleyici izin/kanal durumunu görebilir. Güncelleme bildirimleri tercihe bağlıdır ve cihaz tarafından geciktirilebilir. Kullanıcı verileri için uygulamayı kaldırmadan güncelleyin. Dört mimariyi içeren tek evrensel APK'dır.",
   "status": "READY"
 }
