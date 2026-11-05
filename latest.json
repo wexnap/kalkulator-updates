@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 76,
-  "version_name": "0.5.6-beta.5",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.5/Kalkulator-Android-v0.5.6-beta.5-update.apk",
-  "sha256": "e620c957758d75a23569396d95c12758afcd7a0aee698cbd6dee03decd6cfe50",
-  "notes": "Kalkülatör 0.5.6-beta.5 (76): Aktif alarm sayısını ve sıradaki saati gösteren sessiz bildirim eklendi. Alarm kurma ve düzenleme ekranları Tek seferlik/Sürekli mantığına geçti; Her gün, Hafta içi, Hafta sonu, Gün seç ve Gün aralığı seçenekleri sunuldu. Alarm, plan, takvim, profil, QR ve görev arayüzleri sadeleştirildi. Android tarafından zamanlanamayan alarmlar etkin gösterilmiyor. Acil durdurma ve görev atlama butonları kaldırıldı; görev tamamlanmadan normal alarm kapatma yapılmıyor. Beyaz, Mavi, Siyah temalar korundu. Tek APK dört mimariyi destekler. Uygulamayı silmeden güncelleyin. Android izinleri gerekir; farklı cihazlardaki kilit ekranı, kamera ve güç yönetimi davranışları tümüyle doğrulanmadı.",
+  "version_code": 78,
+  "version_name": "0.5.6-beta.7",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.7/Kalkulator-Android-v0.5.6-beta.7-update.apk",
+  "sha256": "b0e3e51c91247711bd179335979039bd59f3aa77103a8da5c2532109b0341020",
+  "notes": "Kalkülatör v0.5.6-beta.7 (78): Yön Takibi oyununda 3×3 simge alanı büyütüldü, ortalandı ve başlangıç hücresi vurgulandı. Yönergeler kısaltıldı; 400 rastgele yön dizisi doğrulandı. Android'in sıradaki alarm bilgisi karşılaştırması ve pil yönetimi rehberi eklendi. İlk izin ekranında ve Profil'de 10 saniyelik gerçek alarm testi bulunuyor; test en fazla 25 saniye sürüyor, normal alarmların kapanma davranışını değiştirmiyor. Üreticiye özel kilit ekranı ayarı doğrulanamadığı için yanlış 'alarm izni eksik' uyarısı verme hatası düzeltildi. Tek APK arm64-v8a, armeabi-v7a, x86, x86_64 destekliyor. Kurulu uygulamayı silmeden güncelleyin. Gerçek cihazların tamamında ses, kamera, kilit ekranı ve pil optimizasyonu davranışları doğrulanmamıştır.",
   "status": "READY"
 }
