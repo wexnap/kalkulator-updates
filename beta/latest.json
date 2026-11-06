@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 82,
-  "version_name": "0.5.6-beta.11",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.11/Kalkulator-Android-v0.5.6-beta.11-update.apk",
-  "sha256": "4869689965541b3e93325f852d6f9c2052350b8ca9107343be512a0ac87c1d6b",
-  "notes": "2 yeni tema eklendi: Sakura ve Cyber. Her iki tema için ayrı arka plan ve üst bölüm görselleri eklendi. Tema önizlemesi, takvim ve alarm ekranları yeni temalara uyarlandı. 1 görünüm hatası düzeltildi: takvimde bugünün tarihi Sakura ve Cyber'da daha okunaklı. Önceki Beyaz, Mavi, Siyah temaları ve kayıtlı ayarlar korundu. 35 Android kontrolü ve son düzenleme sonrası 16 ek kontrol başarılı. Bu güncelleme yalnız beta test kanalındadır.",
+  "version_code": 83,
+  "version_name": "0.5.6-beta.12",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.12/Kalkulator-Android-v0.5.6-beta.12-update.apk",
+  "sha256": "0b1403e9658d10e0f2760e48abfea679255ee61d75d387424c38a7ab6e59fdfa",
+  "notes": "- Cyberpunk teması yenilendi: neon şehir, trenli alarm kartı, canlı magenta ve camgöbeği.\n- Sakura temasının gece renkleri ve manzarası iyileştirildi.\n- Üstteki uygulama adı yerine güncel tarih, saat ve selamlama eklendi.\n- Ana ekranda Yeni Alarm ve Günlük Plan kısayolları bırakıldı.\n- QR/Foto, Profil > Ses ve Görev bölümüne taşındı.\n- Tema seçim kutuları küçültüldü; beş tema yan yana gösteriliyor.\n- Uygulama içi sürüm notlarının eski sürümü göstermesi düzeltildi.",
   "status": "READY"
 }
