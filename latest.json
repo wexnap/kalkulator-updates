@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 80,
-  "version_name": "0.5.6-beta.9",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.9/Kalkulator-Android-v0.5.6-beta.9-update.apk",
-  "sha256": "bbda8cf182cf2b11ddc23c10e39cc6c511462de7c6f2ad5964d3e41e887c9f4a",
-  "notes": "Kalkülatör v0.5.6-beta.9 (80): Sürekli alarmlarda başlangıç tarihi seçilebilir; günlük ve haftalık tekrarlar sıradaki uygun tarihe ilerler. Gün aralıklı tekrar döngüsü korunur. Tarihler Türkiye biçimi gg.aa.yyyy gösterilir, kaydedilen tarihler değişmez. Yeni düzenleme ekranında bir sonraki çalma tarihi gösterilir. Ana ekran saati sol alt köşeye alındı. Sekiz Android test grubu ve 27/27 yayın denetimi başarılı. Tek evrensel APK önceki sürümle aynı imza. Kurulu uygulamayı silmeden güncelleyin; bütün fiziksel cihazlarda alarm davranışları henüz doğrulanmadı.",
+  "version_code": 81,
+  "version_name": "0.5.6-beta.10",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.10/Kalkulator-Android-v0.5.6-beta.10-update.apk",
+  "sha256": "106667fd8eb74e07fa5bedfd93a5adc6b5bce3277f4b1760b3d64f188457660f",
+  "notes": "Kalkülatör v0.5.6-beta.10 (81): Alarm oyunları kullanıcı tarafından 0/3/5 aşama olarak seçilir; 10 farklı bilişsel oyun türü bulunur. Her aşamada 1 doğru cevap yeterli. İlk yanlışta aynı türden yeni soru, ikinci yanlışta sadece o aşamanın oyun türü değişir; tamamlanan aşamalar korunur. Eski alarmlar, tarih, QR/fotoğraf ve sonraki kontrol ayarları korunur. 29/29 Android testi ve 45/45 yayın kontrolü başarılı. Tek evrensel APK aynı imzayla güncellenebilir. Fiziksel cihazlarda tüm kilit ekranı ve üreticiye özgü pil yönetimi koşulları henüz doğrulanmadı.",
   "status": "READY"
 }
