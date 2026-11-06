@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 68,
-  "version_name": "0.5.5-beta.3",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.5-beta.3/Kalkulator-Android-v0.5.5-beta.3-alarm-ui-oauth-debug.apk",
-  "sha256": "3ab092f7523a7e154273d0a24ad547b4c9be6b29eef1aacb5d1d6afa760ca5ed",
-  "notes": "0.5.5 Beta.3: Alarmın AKTİF/KAPALI durumu küçük rozetle gösterilir. Aç/kapa anahtarı daha büyük, dokunma efekti güçlü ve renkli. Alarm tekrar/tarih ve görev bilgileri ayrı çerçeveli etiketlere dönüştü. ALARMI SİL düğmesi yeniden büyütüldü. Google OAuth için Hata 8 açıklaması ve uygulamanın gerçek imza SHA-1 değerini gösteren tanılama ekranı eklendi. DİKKAT: Google Cloud Android istemcisindeki SHA-1 kurulum belgesindeki eski yanlış değerle oluşturulmuş olabilir; doğru SHA-1 uygulamadan kontrol edilmelidir. Gerçek telefonda alarm sesi, şifreli geri yükleme ve Google bağlantısı henüz doğrulanmadı. Otomatik Drive yedeği KAPALI. Uygulamayı kaldırma; yedeklerini ayrı sakla.",
+  "version_code": 82,
+  "version_name": "0.5.6-beta.11",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.11/Kalkulator-Android-v0.5.6-beta.11-update.apk",
+  "sha256": "4869689965541b3e93325f852d6f9c2052350b8ca9107343be512a0ac87c1d6b",
+  "notes": "2 yeni tema eklendi: Sakura ve Cyber. Her iki tema için ayrı arka plan ve üst bölüm görselleri eklendi. Tema önizlemesi, takvim ve alarm ekranları yeni temalara uyarlandı. 1 görünüm hatası düzeltildi: takvimde bugünün tarihi Sakura ve Cyber'da daha okunaklı. Önceki Beyaz, Mavi, Siyah temaları ve kayıtlı ayarlar korundu. 35 Android kontrolü ve son düzenleme sonrası 16 ek kontrol başarılı. Bu güncelleme yalnız beta test kanalındadır.",
   "status": "READY"
 }
