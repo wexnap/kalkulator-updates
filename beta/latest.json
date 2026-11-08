@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 84,
-  "version_name": "0.5.6-beta.13",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.13/Kalkulator-Android-v0.5.6-beta.13-update.apk",
-  "sha256": "2e052816cefb9674bb1b3a14e50cdad75f58980d3307c0546836da55ac5f0638",
-  "notes": "- Alarm oyun sayısı 0–99 arasında ayarlanabiliyor; seçilen türlerden rastgele oyun geliyor, türler tekrar edebiliyor.\n- Alarm kartındaki düzenleme ve takip kontrolleri daha anlaşılır gruplandı.\n- Sonraki alarma kalan süre uygulamada ve bildirim panelinde gösteriliyor.\n- Eski takvimli logo geri getirildi; mavi dış çerçeve kaldırıldı ve bildirim simgeleri birleştirildi.",
+  "version_code": 85,
+  "version_name": "0.5.6-beta.14",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.14/Kalkulator-Android-v0.5.6-beta.14-update.apk",
+  "sha256": "5b985f29b2276422b2f6493760b506a0f4dd0c187553b5dfc3572f3e8709c819",
+  "notes": "- Alarmın sürekli bildirim kartı kaldırıldı; çalmadan 1 saat önce kalan süre bildirimi geliyor.\n- Takvim ve hatırlatıcıya 12/24/36 saat önce uyarı ile etkinlik saatinde sesli bildirim eklendi.\n- Cyberpunk görselindeki boş alan dolduruldu, Sakura renkleri canlandırıldı.\n- Ana ekranda sıradaki alarma kalan süre ve tarih gösteriliyor; gereksiz Android uyarısı kaldırıldı.\n- Bildirimler seçilen temanın renklerine uyarlanıyor.",
   "status": "READY"
 }
