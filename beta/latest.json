@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 85,
-  "version_name": "0.5.6-beta.14",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.14/Kalkulator-Android-v0.5.6-beta.14-update.apk",
-  "sha256": "5b985f29b2276422b2f6493760b506a0f4dd0c187553b5dfc3572f3e8709c819",
-  "notes": "- Alarmın sürekli bildirim kartı kaldırıldı; çalmadan 1 saat önce kalan süre bildirimi geliyor.\n- Takvim ve hatırlatıcıya 12/24/36 saat önce uyarı ile etkinlik saatinde sesli bildirim eklendi.\n- Cyberpunk görselindeki boş alan dolduruldu, Sakura renkleri canlandırıldı.\n- Ana ekranda sıradaki alarma kalan süre ve tarih gösteriliyor; gereksiz Android uyarısı kaldırıldı.\n- Bildirimler seçilen temanın renklerine uyarlanıyor.",
+  "version_code": 86,
+  "version_name": "0.5.6-beta.15",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.15/Kalkulator-Android-v0.5.6-beta.15-update.apk",
+  "sha256": "9a7f3efe88bd41837e5b3e97d4d4c753db8fc5b954dd3ae1fa4923c1c1328469",
+  "notes": "- Xiaomi/Redmi telefonlarda aktif alarm göstergesi için sessiz durum bildirimi eklendi; son 1 saatte alarm ayrıntıları gösteriliyor.\n- Cyberpunk temasındaki sol taraftaki hatalı yansıma kaldırıldı.\n- Sakura teması yeni kiraz çiçekleri, Fuji Dağı ve göl manzarasıyla yenilendi.",
   "status": "READY"
 }
