@@ -1,10 +1,10 @@
 {
   "project": "kalkulator",
   "package": "com.ludovestia.kalkulator",
-  "version_code": 86,
-  "version_name": "0.5.6-beta.15",
-  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.15/Kalkulator-Android-v0.5.6-beta.15-update.apk",
-  "sha256": "9a7f3efe88bd41837e5b3e97d4d4c753db8fc5b954dd3ae1fa4923c1c1328469",
-  "notes": "- Xiaomi/Redmi telefonlarda aktif alarm göstergesi için sessiz durum bildirimi eklendi; son 1 saatte alarm ayrıntıları gösteriliyor.\n- Cyberpunk temasındaki sol taraftaki hatalı yansıma kaldırıldı.\n- Sakura teması yeni kiraz çiçekleri, Fuji Dağı ve göl manzarasıyla yenilendi.",
+  "version_code": 87,
+  "version_name": "0.5.6-beta.16",
+  "download_url": "https://github.com/wexnap/kalkulator-updates/releases/download/v0.5.6-beta.16/Kalkulator-Android-v0.5.6-beta.16-update.apk",
+  "sha256": "f02fc9b27ea78173d51d25ec13fa2767761f8398b52e033f875a73350a87acbb",
+  "notes": "- Tek seferlik alarmlar yeniden açıldığında tarih, mümkünse bugün; saat geçtiyse ertesi gün olarak otomatik ayarlanıyor.\n- Alarm listesindeki gereksiz durum etiketi ve sürekli duran “Alarm kurulu” bildirimi kaldırıldı; son 1 saat uyarısı korundu.\n- Kızıl Şato teması eklendi; Beyaz, Mavi, Siyah, Sakura ve Cyber temalarının görselleri ve tuş çerçeveleri iyileştirildi.\n- Cyber arka planındaki pikselleşme ve görsel esnetme düzeltildi; Sakura manzarasının okunabilirliği artırıldı.",
   "status": "READY"
 }
